@@ -13,6 +13,8 @@ router.use(useragent.express())
 // movies
 router.post('/movieByName', movie.getMovieByName)
 router.post('/commentsByUser', movie.commentsByUser)
+router.delete('/deleteRating/idmovie/:idMovie/user/:user', movie.deleteRatingMovie)
+router.get('/ratingList', movie.listComment)
 
 module.exports = router
 
