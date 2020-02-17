@@ -25,5 +25,7 @@ Built with 🛠️
 
 This project uses 
 the movie db https://www.themoviedb.org/documentation/api
+
 auth0 https://auth0.com/
+
 database administration MongoDB atlas
