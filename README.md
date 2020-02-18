@@ -13,13 +13,16 @@ npm install
 Running the tests ⚙️
 
 In local environment this project is running through port 8087
-The url to start is http: // localhost: 8087 / login
+The url to start is http: // localhost:5000/login
 
 Deployment 📦
 
 This project is deployed in heroku
 
-url:
+
+url: https://movietestca.herokuapp.com/
+
+login: https://movietestca.herokuapp.com/login
 
 Built with 🛠️
 
